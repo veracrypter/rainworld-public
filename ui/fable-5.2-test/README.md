@@ -5,7 +5,7 @@ a watermark, a keybind list, hitlogs, a target hud, an esp preview, a config man
 editor. Every colour, font and text size can be changed at runtime.
 
 ```lua
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/kvartirant327-sys/Lol/HEAD/Library.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/veracrypter/rainworld-public/refs/heads/main/ui/fable-5.2-test/library.lua"))()
 ```
 
 [`Example.lua`](Example.lua) builds the whole interface from the design and is the quickest way to
